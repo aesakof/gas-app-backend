@@ -11,6 +11,7 @@ django-cors-headers = "*"
 django-filter = "*"
 requests = "*"
 legacy-cgi = "*"
+gunicorn = "*"
 
 [dev-packages]
 
