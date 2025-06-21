@@ -154,7 +154,8 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3000",
     "http://localhost:3000",
-    "https://gas-app-backend-iz7c.onrender.com"
+    "https://gas-app-backend-iz7c.onrender.com",
+    "https://gastrackerapp.netlify.app"
 ]
 
 # Custom user model
