@@ -28,7 +28,12 @@ SECRET_KEY = 'django-insecure-37)yphn=54fk2sixs_6(=lwl%xm1!+fkk22%6!3$q$6mfk4hcs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [    
+    "127.0.0.1",
+    "localhost",
+    "gas-app-backend-iz7c.onrender.com",
+    "gastrackerapp.netlify.app"
+]
 
 
 # Application definition
